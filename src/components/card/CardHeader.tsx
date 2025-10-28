@@ -68,8 +68,8 @@ const CardHeader = ({
             onClick={handleSelectCart}
             className="flex items-center justify-center gap-[0.5rem] bg-white w-full h-full"
           >
-            <img src={iconCart} alt="" />
-            <p>Add to Cart</p>
+            <img src={iconCart} alt="Cart icon" />
+            Add to Cart
           </button>
         )}
       </div>
